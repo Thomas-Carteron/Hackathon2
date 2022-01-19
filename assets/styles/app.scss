@@ -1,0 +1,25 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import 'base/variables';
+@import "base/base";
+@import "base/bootstrap_override";
+@import "form/login";
+@import "form/search-trip";
+@import "home/home";
+@import "components/navbar";
+@import "components/footer";
+@import "discover/discover";
+@import "search/search";
+@import "company/company";
+@import "~animate.css";
+@import "company/templateMail";
+@import "autocomplete/autocomplete";
+@import "trip/showDetails";
+@import "profil/profil";
+@import "reservation/reservation";
+@import "transporteur/transporteur.css";
+@import "admin/admin.css";
+@import "process/process";
+
+
+
+

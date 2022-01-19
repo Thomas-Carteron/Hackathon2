@@ -1,0 +1,29 @@
+$primary-blue: #283b68;
+$secondary-blue: #679bd3;
+$tertiary-blue: #cae5f8;
+$primary-red: #e8452c;
+$primary-yellow: #fbc030;
+
+@font-face
+{
+  font-family: "Rooney Sans-Heavy";
+ src: url("/assets/fonts/RooneySans-Heavy.ttf");
+}
+
+@font-face
+{
+  font-family: "Rooney Sans-Bold";
+  src: url("/assets/fonts/RooneySans-Bold.ttf");
+}
+
+@font-face
+{
+  font-family: "Rooney Sans-Regular";
+  src: url("/assets/fonts/RooneySans-Regular.ttf");
+}
+
+@font-face
+{
+  font-family: "Rooney Sans-Light";
+  src: url("/assets/fonts/RooneySans-Light.ttf");
+}
